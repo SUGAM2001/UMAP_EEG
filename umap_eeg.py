@@ -31,3 +31,4 @@ plt.ylabel('UMAP 2', fontsize=12)
 plt.legend(title='Classes')
 plt.tight_layout()
 plt.show()
+
