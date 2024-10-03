@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import umap.umap_ as umap  # Correct import for UMAP
+import umap.umap_ as umap  
 import matplotlib.pyplot as plt
 import seaborn as sns
 
